@@ -7,7 +7,8 @@
 
 ## 💬 Sobre mim 
 - Estudante de Engenharia de Software na PUC-MG
-- Atualmente, estou aprendendo sobre Desenvolvimento Web
+- Atualmente, estou aprendendo Python
+- Desenvolvedor Full-Stack
 <!-- - Estudando também Desenvolvimento Mobile e Inteligência Artificial por conta própria -->
 
 ----
